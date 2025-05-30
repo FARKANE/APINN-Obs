@@ -21,7 +21,7 @@ This package implements PINN observers that can simultaneously estimate system s
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/FARKANE/pinn_observer.git
+git clone https://github.com/FARKANE/APINN-Obs.git
 cd APINN-Obs
 ```
 
