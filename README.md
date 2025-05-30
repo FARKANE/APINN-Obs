@@ -22,7 +22,7 @@ This package implements PINN observers that can simultaneously estimate system s
 1. Clone the repository:
 ```bash
 git clone https://github.com/FARKANE/pinn_observer.git
-cd pinn_observer
+cd APINN-Obs
 ```
 
 2. Install dependencies:
